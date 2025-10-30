@@ -30,13 +30,13 @@ I'm **Samin**, a *tall and gentle guy* who enjoys exploring the digital world.
 ---
 
 ## 🌀 Luffy Gear 5 Mode
-![Luffy Gear 5](a095bf24-ed43-42c4-b1f1-af50bd3450f1.png)
+![Luffy Gear 5](https://static0.srcdn.com/wordpress/wp-content/uploads/2023/08/luffygear5dark.jpg?w=1600&h=900&fit=crop).
 
 ---
 
 ## 📫 Connect with Me
 
-[🌍 GitHub Profile](https://github.com)  
+[🌍 GitHub Profile](https://github.com/Souljaboy12)  
 📧 samin.362411@pasay-edsa.sti.edu.ph
 
 ---
