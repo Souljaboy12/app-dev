@@ -37,7 +37,7 @@ I'm **Samin**, a *tall and gentle guy* who enjoys exploring the digital world.
 ## 📫 Connect with Me
 
 [🌍 GitHub Profile](https://github.com)  
-📧 yourname@sti.edu.ph
+📧 samin.362411@pasay-edsa.sti.edu.ph
 
 ---
 
